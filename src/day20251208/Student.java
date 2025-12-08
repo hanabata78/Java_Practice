@@ -1,4 +1,4 @@
-package day20251125;
+package day20251208;
 
 public class Student {
 //メンバー変数（属性）

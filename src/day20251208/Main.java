@@ -8,8 +8,7 @@ package day20251208;
 public class Main {
 
 	public static void main(String[] args) {
-		aaaa
-
+		System.out.println("あいうえお");
 	}
 
 }
