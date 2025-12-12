@@ -4,7 +4,7 @@ public class Sample5 {
 
     public static void main(String[] args) {
 
-        User user = new User();
+        User2 user = new User2();
         user.name = "山田";
         user.age = 25;
 
